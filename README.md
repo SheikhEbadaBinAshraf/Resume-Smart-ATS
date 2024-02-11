@@ -8,6 +8,9 @@
   
 
 ### Google Gemini-Pro-Vision API  
+
+
+### Applied the Gemini-Pro-Vision LLM Model for text generation, or other relevant tasks.
   
 
 ### Used PyPDF2 to work with PDF files  
